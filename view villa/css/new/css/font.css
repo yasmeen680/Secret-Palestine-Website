@@ -1,0 +1,17 @@
+@font-face{font-family:"Cairo SemiBold";src:url('../fonts/Cairo SemiBold 600.ttf');font-weight:400;font-style:normal!important}@font-face{font-family:"Cairo Regular";src:url('../fonts/Cairo Regular 400.ttf');font-weight:400;font-style:normal!important}@font-face{font-family:"Cairo Light";src:url('../fonts/Cairo Light 300.ttf');font-weight:400;font-style:normal}@font-face{font-family:"Cairo ExtraLight";src:url('../fonts/Cairo ExtraLight 275.ttf');font-weight:400;font-style:normal}@font-face{font-family:"Cairo Bold";src:url(../fonts/Cairo-Bold.ttf);font-weight:400;font-style:normal!important}@font-face{font-family:"Cairo Black";src:url('../fonts/Cairo Black 900.ttf');font-weight:400;font-style:normal!important}
+
+@font-face{
+font-family:"Tajawal-Bold";
+src:url('../fonts/Tajawal-Bold.ttf');
+font-weight:normal;font-style:normal!important
+}			
+@font-face{
+font-family:"Tajawal-Medium";
+src:url('../fonts/Tajawal-Medium.ttf');
+font-weight:normal;font-style:normal!important
+}			
+@font-face{
+font-family:"Tajawal-Regular";
+src:url('../fonts/Tajawal-Regular.ttf');
+font-weight:normal;font-style:normal!important
+}			
